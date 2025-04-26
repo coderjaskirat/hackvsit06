@@ -24,24 +24,16 @@ const About = () => {
           <div className='person-image-container'>
             <img src={prabal}></img>
           </div>
-          <p className='person-name'>Prabal Gupta</p>
-          <p className='person-role'>Backend Developer</p>
-        </div>
-
-        <div className='person-container'>
-          <div className='person-image-container'>
-            <img src={pratham}></img>
-          </div>
-          <p className='person-name'>Pratham Chudasama</p>
-          <p className='person-role'>Frontend Developer</p>
+          <p className='person-name'>Rajat</p>
+          <p className='person-role'>UI/UX Designer</p>
         </div>
 
         <div className='person-container'>
           <div className='person-image-container'>
             <img src={prabhjot}></img>
           </div>
-          <p className='person-name'>Prabhjot Singh</p>
-          <p className='person-role'>UI/UX and Web Designer</p>
+          <p className='person-name'>Guneet Singh</p>
+          <p className='person-role'>Frontend Developer</p>
         </div>
       </div>
     </div>
